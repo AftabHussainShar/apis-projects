@@ -1,6 +1,3 @@
-Here’s a consolidated Markdown document that includes all the API endpoints in one section:
-
-
 # Project API Documentation
 
 This document provides an overview of the API endpoints for the project, including details for sending OTPs, verifying OTPs, and logging in.
@@ -79,10 +76,3 @@ email_or_id=a03003132335@gmail.com&password=123
 ```
 
 ---
-
-## Conclusion
-
-This documentation outlines the key API endpoints for user authentication, including sending and verifying OTPs, as well as logging in. Ensure to handle all responses and errors appropriately in your application.
-```
-
-Feel free to adjust any part of this document to better fit your project's needs!
