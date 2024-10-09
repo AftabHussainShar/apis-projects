@@ -1,6 +1,6 @@
 Here’s a consolidated Markdown document that includes all the API endpoints in one section:
 
-```markdown
+
 # Project API Documentation
 
 This document provides an overview of the API endpoints for the project, including details for sending OTPs, verifying OTPs, and logging in.
